@@ -9,5 +9,5 @@ INSERT INTO role (title, salary, department_id) VALUES
 
 
 INSERT INTO employee (first_name, last_name, role_id) VALUES
-    ('John', 'Doe', 1. null),
-    ('Jane', 'Doe', 2, 1);
+    ('John', 'Doe', 1),
+    ('Jane', 'Doe', 2);
